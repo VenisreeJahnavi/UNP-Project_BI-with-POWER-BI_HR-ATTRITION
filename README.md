@@ -5,5 +5,5 @@ Based on  the analysis we came up with insights and suggestions that optimized w
  Visualize key attrition metrics.
  Analyze trends. 
 Empower decision-makers with actionable insights for effective talent retention and strategic HR planning.
-pbix link-https://drive.google.com/file/d/1Ojo4SPn_1_OFmGJrY5IE5F6Hw-kZ85GF/view?usp=drive_link
-pdf link-https://drive.google.com/file/d/1OUGaaSj2ttFMiOpXTCTuFDD_0dJTdFjM/view?usp=drive_link
+pbix link-https://drive.google.com/file/d/1PGon0wkUnzrXLHXRe8zdd7v_qyhQ8A0V/view?usp=drive_link
+pdf link-https://drive.google.com/file/d/1FzTU6wdW_9kU7eajFcfHhnUThmDqiQzN/view?usp=drive_link
